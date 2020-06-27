@@ -1,10 +1,12 @@
 # Quaternity-Titles
-
+**Hybrid**
 Hybrid Roles Amalgam
 1. Author
 2. Entrepreneur / Product Manager
 3. Software Developer Software Engineering / Programmer / Hacker / Coder
 4. Investor
+
+*5. Student Learner - Leader
 
 # Quaternity-Projects
 
